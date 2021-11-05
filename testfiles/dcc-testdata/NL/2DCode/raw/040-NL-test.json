@@ -46,7 +46,7 @@
     },
     "EXPECTEDRESULTS": {
         "EXPECTEDVALIDOBJECT": true,
-        "EXPECTEDSCHEMAVALIDATION": false,
+        "EXPECTEDSCHEMAVALIDATION": true,
         "EXPECTEDDECODE": true,
         "EXPECTEDVERIFY": true,
         "EXPECTEDUNPREFIX": true,
